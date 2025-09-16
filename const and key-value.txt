@@ -1,0 +1,25 @@
+Object kis ko bolte hain (JavaScript me)?
+
+Object ek collection of key–value pairs hota hai.
+
+Key = naam (string type hota hai)
+
+Value = koi bhi data (string, number, boolean, array, ya dusra object)
+
+Matlab object ek aisa data structure hai jisme tum data ko property ke form me store karte ho.
+
+Example:
+// Object ka example
+const person = {
+  name: "Ali",   // yaha 'name' ek key hai aur "Ali" uski value hai
+  age: 22,       // 'age' key hai aur 22 value hai
+  isStudent: true
+};
+
+console.log(person.name); // Ali
+console.log(person.age);  // 22
+
+
+Yani object ko ek dictionary / real-life entity samajh sakte ho jisme information key-value ke form me hoti hai.
+
+👉 Example: person ek object hai, usme name, age, aur isStudent uske keys (properties) hain.

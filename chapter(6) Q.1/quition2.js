@@ -1,0 +1,1 @@
+let change = prompt("Enter the number")

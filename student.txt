@@ -1,0 +1,15 @@
+create a structure student with data members Roll, name, marks in 6 subjects, total, percent and grade
+write the code to read detials of 2 student and display the result
+
+
+1. student name = tanveer;
+ 
+2. Roll = 41;
+
+3. marks in 6 subjects = arr[42,45,60,53,70,90];  
+
+4. total = marks 360; 1 subjects marks total 100 out of
+
+5. percent = 60%
+
+6. grade = 'B';  
