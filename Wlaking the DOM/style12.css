@@ -1,0 +1,15 @@
+#box {
+  width: 100px;
+  height: 100px;
+  background-color: lightgray;
+  line-height: 100px;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.active {
+  background-color: green;
+  color: white;
+  transform: scale(1.1);
+}

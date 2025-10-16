@@ -1,0 +1,17 @@
+#plus {
+    padding: 4px 17px;
+    border-radius: 26px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#minus {
+    padding: 4px 20px;
+    border-radius: 26px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#counter {
+    margin-left: 50px;
+}
