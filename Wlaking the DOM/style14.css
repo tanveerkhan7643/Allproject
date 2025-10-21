@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 6px;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.active {
+  background-color: lightgreen;
+  border-color: green;
+}

@@ -1,5 +1,6 @@
-let box = document.getElementById("box");
+let input = document.getElementById("myInput");
+let output = document.getElementById("output");
 
-box.addEventListener("click",function() {
-    box.classList.toggle("active");
+input.addEventListener("input",function() {
+    output.innerText = input.value;
 });
