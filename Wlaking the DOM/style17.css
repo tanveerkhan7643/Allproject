@@ -1,0 +1,20 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  transition: 0.4s ease; /* smooth color change */
+}
+
+#toggleBtn {
+    cursor: pointer;
+    padding: 14px 20px;
+    border-radius: 16px;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
